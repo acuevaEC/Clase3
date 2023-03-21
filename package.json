@@ -1,0 +1,20 @@
+{
+  "name": "clase3",
+  "version": "1.0.0",
+  "description": "Proyecto de clase 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "commonjs"
+  ],
+  "author": "@acuevaEC",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
